@@ -1,5 +1,7 @@
 # MACFIND — McMaster Lost & Found MVP
 
+By Nehan Mohammed, Rian Sen Majumder, and Simon Akhter
+
 Vite + React + TypeScript single-page app that matches the requested McMaster-themed lost & found marketplace:
 
 - Landing hero with McMaster maroon/gold palette
